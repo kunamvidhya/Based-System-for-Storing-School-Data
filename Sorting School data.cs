@@ -13,7 +13,7 @@ namespace Based_System_for_Storing_School_Data
         public void TestMethod1()
         {
             var mockTeacherRepository = new Mock<ITeacherRepository>();
-            var schoolService = new SchoolService(mockTeacherRepository.Object);
+           var schoolService = new SchoolService(mockTeacherRepository.Object);
 
             // Act
             var teacher = schoolService.GetTeacherById(1);

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\based system for storing school data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|solutionrelative:based system for storing school data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EB87AA-CFA3-4194-AE84-F33CF3D602D5}|Teacher\\Teacher.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\teacher\\teachertestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EB87AA-CFA3-4194-AE84-F33CF3D602D5}|Teacher\\Teacher.csproj|solutionrelative:teacher\\teachertestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\based system for storing school data\\sorting school data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|solutionrelative:based system for storing school data\\sorting school data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\based system for storing school data\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|solutionrelative:based system for storing school data\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\based system for storing school data\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|solutionrelative:based system for storing school data\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|d:\\mphasis\\feb-19\\based system for storing school data\\based system for storing school data\\mock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72164BA5-6EE4-4BE0-BA40-1E1F10518E6B}|Based System for Storing School Data\\Based System for Storing School Data.csproj|solutionrelative:based system for storing school data\\mock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teachertestes.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Teacher\\Teachertestes.cs",
+              "RelativeDocumentMoniker": "Teacher\\Teachertestes.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Teacher\\Teachertestes.cs",
+              "RelativeToolTip": "Teacher\\Teachertestes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T11:05:20.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolService.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\SchoolService.cs",
+              "RelativeDocumentMoniker": "Based System for Storing School Data\\SchoolService.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\SchoolService.cs",
+              "RelativeToolTip": "Based System for Storing School Data\\SchoolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:22:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Teacher.cs",
+              "RelativeDocumentMoniker": "Based System for Storing School Data\\Teacher.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Teacher.cs",
+              "RelativeToolTip": "Based System for Storing School Data\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:22:29.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mock.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Mock.cs",
+              "RelativeDocumentMoniker": "Based System for Storing School Data\\Mock.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Mock.cs",
+              "RelativeToolTip": "Based System for Storing School Data\\Mock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:22:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "Based System for Storing School Data\\ITeacherRepository.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\ITeacherRepository.cs",
+              "RelativeToolTip": "Based System for Storing School Data\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:22:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sorting School data.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Sorting School data.cs",
+              "RelativeDocumentMoniker": "Based System for Storing School Data\\Sorting School data.cs",
+              "ToolTip": "D:\\mphasis\\Feb-19\\Based System for Storing School Data\\Based System for Storing School Data\\Sorting School data.cs",
+              "RelativeToolTip": "Based System for Storing School Data\\Sorting School data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:11:17.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
