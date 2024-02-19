@@ -1,0 +1,25 @@
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Based System for Storing School Data.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Based System for Storing School Data.pdb
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Castle.Core.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Moq.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\UserLoginLibrary.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Castle.Core.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\Moq.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\bin\Debug\UserLoginLibrary.pdb
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\obj\Debug\Based System for Storing School Data.csproj.AssemblyReference.cache
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\obj\Debug\Based System for Storing School Data.csproj.CoreCompileInputs.cache
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\obj\Debug\Based System for Storing School Data.csproj.CopyComplete
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\obj\Debug\Based System for Storing School Data.dll
+D:\mphasis\Feb-19\Based System for Storing School Data\Based System for Storing School Data\obj\Debug\Based System for Storing School Data.pdb
